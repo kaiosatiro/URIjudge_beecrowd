@@ -19,11 +19,14 @@ while True:
         matriz[linha] = matriz[i]
         i += 1
 
+    print(matriz)
     for linha in matriz:
-        for a, i in enumerate(linha):
-            if a == 0:
-                print(' ', i, end='')
-            else:
-                print(f'{i:>4}', end='')
+        print(linha)
+    # for linha in matriz:
+    #     for a, i in enumerate(linha):
+    #         if a == 0:
+    #             print(' ', i, end='')
+    #         else:
+    #             print(f'{i:>4}', end='')
         print()
     print()

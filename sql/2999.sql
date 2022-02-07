@@ -1,4 +1,4 @@
---- URI Online Judge SQL
+--- THAISE URI Online Judge SQL
 --- Copyright URI Online Judge
 --- www.urionlinejudge.com.br
 --- Problem 2999
